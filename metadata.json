@@ -1,0 +1,6 @@
+{
+  "name": "HostelSphere - Hostel Management SaaS",
+  "description": "Production-ready Hostel Management System for colleges and universities with multi-role access for Admin, Warden, and Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
